@@ -19,7 +19,6 @@ public class PersonController {
     private PersonService service;
     @RequestMapping("all")
     public PersonDto queryAll(int page,int rows){
-        System.out.println("all");
         return service.queryAll(page,rows);
     }
     @RequestMapping("ins")
