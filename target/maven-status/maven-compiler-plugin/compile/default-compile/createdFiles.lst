@@ -1,0 +1,12 @@
+com\demo2\entity\PersonExample$Criterion.class
+com\demo2\mapper\PersonMapper.class
+com\demo2\entity\Person.class
+com\demo2\entity\PersonExample$GeneratedCriteria.class
+com\demo2\service\PersonServiceImpl.class
+com\demo2\controller\PersonController.class
+com\demo2\conf\JsonConf.class
+com\demo2\dto\PersonDto.class
+com\demo2\entity\PersonExample$Criteria.class
+com\demo2\entity\PersonExample.class
+com\demo2\service\PersonService.class
+com\demo2\App.class
